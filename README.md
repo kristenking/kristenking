@@ -1,4 +1,6 @@
 ### Hi there 👋
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/68170283/118873147-9fcc9980-b8a6-11eb-9c5b-cced31bc65d9.gif)
+
 
 <!--
 **kristenking/kristenking** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
