@@ -1,4 +1,4 @@
-<h2> Hi, I'm Kristina! <img src="https://media.giphy.com/media/3oFzmeVbeXIfBUl5sI/giphy.gif" width="50"></h2>
+<h2> Hi, I'm Kristina! <img src="https://media.giphy.com/media/tV25tpdKqdFa9x81k2/giphy.gif" width="50"></h2>
 
 
 Here are some ideas to get you started:
