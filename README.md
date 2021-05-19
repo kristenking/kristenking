@@ -1,9 +1,5 @@
-### Hi there 👋
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/68170283/118873147-9fcc9980-b8a6-11eb-9c5b-cced31bc65d9.gif)
-
-
-<!--
-**kristenking/kristenking** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2> Hi, I'm Kristina! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 
 Here are some ideas to get you started:
 
