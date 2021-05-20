@@ -1,3 +1,5 @@
+[![](https://github.com/kristenking/kristenking/blob/main/profile.gif)]
+
 <h2> Hi, I'm Kristina! <img src="https://media.giphy.com/media/K9Xy6osm73DbxIa8f2/giphy.gif" width="40"></h2>
 
 
