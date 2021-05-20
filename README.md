@@ -4,3 +4,4 @@
 - 🔭 I’m currently working on a website with dynamically generated blog post pages. 
 - 🌱 I’m currently learning automation using Python.
 - 👯 I’m looking to collaborate on projects that are using Python.
+
