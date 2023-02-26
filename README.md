@@ -2,7 +2,19 @@
   <h2>   Hi, I'm Kristina! <img src="https://media.giphy.com/media/K9Xy6osm73DbxIa8f2/giphy.gif" width="40"></h2>
 
 
-- 🔭 I’m currently working on a website with dynamically generated blog post pages. 
-- 🌱 I’m learning automation using Python.
-- 👯 I’m looking to collaborate on projects that are using Python.
 
+🚀 As a full-stack developer, I love creating stunning web applications with React ⚛️ and JavaScript 💻. With a strong background in UX/UI design 🎨, I use tools like Figma 🖌️ and Adobe Illustrator 🎨 to bring my ideas to life.
+
+🔍 I'm currently exposing myself to TypeScript and exploring AWS certification 🌟 to enhance my skill set. Let's build something amazing together! 💪
+
+🌟 Here are some of the technologies I work with:
+
+🚀 React ⚛️
+🚀 JavaScript 💻
+🚀 MERN Stack 🍃
+🚀 Node.js 🚀
+🚀 TypeScript 🔍
+🚀 Figma 🖌️
+🚀 Adobe Illustrator 🎨
+
+Feel free to explore my work on GitHub! 🌟
