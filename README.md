@@ -10,11 +10,11 @@
 🌟 Here are some of the technologies I work with:
 
 🚀 React ⚛️<br>
-🚀 JavaScript 💻\n
-🚀 MERN Stack 🍃\n
-🚀 Node.js 🚀\n
-🚀 TypeScript 🔍\n
-🚀 Figma 🖌️\n
-🚀 Adobe Illustrator 🎨\n
+🚀 JavaScript 💻<br>
+🚀 MERN Stack 🍃<br>
+🚀 Node.js 🚀<br>
+🚀 TypeScript 🔍<br>
+🚀 Figma 🖌️<br>
+🚀 Adobe Illustrator 🎨<br>
 
 Feel free to explore my work on GitHub! 🌟
