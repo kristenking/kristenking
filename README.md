@@ -3,7 +3,7 @@
 
 
 
-🚀 As a full-stack developer, I love creating stunning web applications with React ⚛️ and JavaScript 💻. With a strong background in UX/UI design 🎨, I use tools like Figma 🖌️ and Adobe Illustrator 🎨 to bring my ideas to life.
+As a full-stack developer, I love creating stunning web applications with React ⚛️ and JavaScript 💻. With a strong background in UX/UI design 🎨, I use tools like Figma 🖌️ and Adobe Illustrator 🎨 to bring my ideas to life.
 
 🔍 I'm currently exposing myself to TypeScript and exploring AWS certification 🌟 to enhance my skill set. Let's build something amazing together! 💪
 
