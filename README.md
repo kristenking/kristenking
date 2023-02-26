@@ -9,7 +9,7 @@
 
 🌟 Here are some of the technologies I work with:
 
-🚀 React ⚛️\n
+🚀 React ⚛️<br>
 🚀 JavaScript 💻\n
 🚀 MERN Stack 🍃\n
 🚀 Node.js 🚀\n
