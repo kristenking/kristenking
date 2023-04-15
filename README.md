@@ -3,18 +3,22 @@
 
 
 
-As a full-stack developer, I love creating stunning web applications with React ⚛️ and JavaScript 💻. With a strong background in UX/UI design 🎨, I use tools like Figma 🖌️ and Adobe Illustrator 🎨 to bring my ideas to life.
+I am a Full Stack Developer with over 3 years experience in React.js and Node.js. Currently, I'm working towards my AWS certification 🌟 to enhance my skill set in cloud services and exploring unit testing and Rails 7 for several ongoing projects. I also share my knowledge and experiences on React and Node through my blog on dev.to/kristinadev.
+
+With a strong background in UX/UI design, I use tools like Figma 🖌️ and Adobe Illustrator 🎨 to bring my ideas to life.
 
 🔍 I'm currently exposing myself to TypeScript and exploring AWS certification 🌟 to enhance my skill set. Let's build something amazing together! 💪
 
 🌟 Here are some of the technologies I work with:
 
-🚀 React ⚛️<br>
-🚀 JavaScript 💻<br>
-🚀 MERN Stack 🍃<br>
-🚀 Node.js 🚀<br>
-🚀 TypeScript 🔍<br>
-🚀 Figma 🖌️<br>
-🚀 Adobe Illustrator 🎨<br>
+🌟 React ⚛️<br>
+💻 JavaScript 🟨<br>
+🌿 MERN 🌐<br>
+🚀 Node.js 🟢<br>
+🛤️ Rails 7 🚆<br>
+🔷 TypeScript 🔍<br>
+🌥️ AWS ☁️<br>
+🖌️ Figma 🎨<br>
+🎨 Adobe Illustrator 🖼️<br>
 
-Feel free to explore my work on GitHub! 🌟
+I believe that collaboration, constant learning, and sharing knowledge are crucial for growth and success in the tech industry. Let's connect and build something amazing together! 💪
