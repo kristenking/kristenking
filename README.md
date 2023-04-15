@@ -3,9 +3,9 @@
 
 
 
-I am a Full Stack Developer with over 3 years experience in React.js and Node.js. Currently, I'm working towards my AWS certification 🌟 to enhance my skill set in cloud services and exploring unit testing and Rails 7 for several ongoing projects. I also share my knowledge and experiences on React and Node through my blog on dev.to/kristinadev.
+I am a Full Stack Developer with over 3 years experience in <strong>React.js</strong> and <strong>Node.js</strong>. Currently, I'm working towards my <strong>AWS</strong> certification and practicing unit <strong>testing</strong> and <strong>Rails 7</strong> for several ongoing projects. I also share my knowledge and experiences on React and Node through my <strong>blog</strong> on dev.to/kristinadev.
 
-With a strong background in UX/UI design, I use tools like Figma 🖌️ and Adobe Illustrator 🎨 to bring my ideas to life.
+With a strong background in <strong>UX/UI</strong> design, I use tools like <strong>Figma</strong> 🖌️ and <strong>Adobe Illustrator</strong> 🎨 to bring my ideas to life.
 
 
 🌟 Here are some of the technologies I work with:
