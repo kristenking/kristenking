@@ -7,18 +7,18 @@ I am a Full Stack Developer with over 3 years experience in React.js and Node.js
 
 With a strong background in UX/UI design, I use tools like Figma 🖌️ and Adobe Illustrator 🎨 to bring my ideas to life.
 
-🔍 I'm currently exposing myself to TypeScript and exploring AWS certification 🌟 to enhance my skill set. Let's build something amazing together! 💪
 
 🌟 Here are some of the technologies I work with:
 
-🌟 React ⚛️<br>
-💻 JavaScript 🟨<br>
-🌿 MERN 🌐<br>
-🚀 Node.js 🟢<br>
-🛤️ Rails 7 🚆<br>
-🔷 TypeScript 🔍<br>
-🌥️ AWS ☁️<br>
-🖌️ Figma 🎨<br>
-🎨 Adobe Illustrator 🖼️<br>
+⚛️ React <br>
+🟨 JavaScript <br>
+🌿 MERN <br>
+🚀 Node.js <br>
+🔴 Rails 7 <br>
+🔷 TypeScript <br>
+☁️ AWS <br>
+🖌️ Figma <br>
+🎨 Adobe Illustrator <br>
+
 
 I believe that collaboration, constant learning, and sharing knowledge are crucial for growth and success in the tech industry. Let's connect and build something amazing together! 💪
