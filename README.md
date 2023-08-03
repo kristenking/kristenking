@@ -28,5 +28,3 @@ project contributor. Writing about React and Node on dev.to.
 
 <br>
 
-
-I believe that collaboration, constant learning, and sharing knowledge are crucial for growth and success in the tech industry. Let's connect and build something amazing together! <strong>(ﾉ◕ヮ◕)ﾉ*:･ﾟ✧</strong>
